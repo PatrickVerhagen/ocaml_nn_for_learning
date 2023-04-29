@@ -1,0 +1,10 @@
+(executable
+ (name main)
+ (modules main)
+ (libraries matrix)
+)
+
+(library
+ (name matrix)
+ (modules matrix)
+)
